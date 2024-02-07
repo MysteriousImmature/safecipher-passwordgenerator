@@ -1,2 +1,2 @@
 # safecipher
-Generate Strong passwords with SafeCipher - password generator
+"SafeCipher - Password Generator" is a extension that helps users generate secure and random passwords. It features a simple interface with a slider to adjust the password length, a "Generate Password" button, and a "Copy" button to easily save the generated password to the clipboard. The extension is designed for ease of use, providing a convenient solution for creating strong and unique passwords.
