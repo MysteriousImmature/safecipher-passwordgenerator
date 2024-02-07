@@ -1,0 +1,14 @@
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .container {
+    height: 400px;
+    width: 400px;
+  }
+  
+  #passwordDisplay {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+  
