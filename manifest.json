@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "SafeCipher - password generator",
-  "version": "1.0",
+  "name": "SafeCipher - Password Generator",
+  "version": "2.0",
   "description": "Generate random passwords with SafeCipher - password generator",
   "permissions": ["clipboardWrite"],
   "action": {
@@ -20,7 +20,7 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "SafeCipher@justflowers.netlify.com",
-      "strict_min_version": "42.0"
+      "strict_min_version": "58.0"
     }
   }
 }
